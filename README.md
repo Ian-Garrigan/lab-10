@@ -1,2 +1,3 @@
 # lab-10
-calculate mean &amp; sum of an array of numbers
+
+View live site <a href="https://lab-10.pages.dev/" target="_blank"><u>HERE</u></a>
